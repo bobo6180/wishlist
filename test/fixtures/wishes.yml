@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  image_url: MyString
+  site_url: MyString
+  notes: MyText
+  stars: 1
+  reserve_date: 2012-03-29
+  done: false
+
+two:
+  name: MyString
+  image_url: MyString
+  site_url: MyString
+  notes: MyText
+  stars: 1
+  reserve_date: 2012-03-29
+  done: false
